@@ -1,0 +1,26 @@
+D:\UnimarPos\SingletonApp\obj\Debug\netcoreapp3.1\SingletonApp.csprojAssemblyReference.cache
+D:\UnimarPos\SingletonApp\obj\Debug\netcoreapp3.1\SingletonApp.AssemblyInfoInputs.cache
+D:\UnimarPos\SingletonApp\obj\Debug\netcoreapp3.1\SingletonApp.AssemblyInfo.cs
+D:\UnimarPos\SingletonApp\obj\Debug\netcoreapp3.1\SingletonApp.csproj.CoreCompileInputs.cache
+D:\UnimarPos\SingletonApp\bin\Debug\netcoreapp3.1\SingletonApp.exe
+D:\UnimarPos\SingletonApp\bin\Debug\netcoreapp3.1\SingletonApp.deps.json
+D:\UnimarPos\SingletonApp\bin\Debug\netcoreapp3.1\SingletonApp.runtimeconfig.json
+D:\UnimarPos\SingletonApp\bin\Debug\netcoreapp3.1\SingletonApp.runtimeconfig.dev.json
+D:\UnimarPos\SingletonApp\bin\Debug\netcoreapp3.1\SingletonApp.dll
+D:\UnimarPos\SingletonApp\bin\Debug\netcoreapp3.1\SingletonApp.pdb
+D:\UnimarPos\SingletonApp\obj\Debug\netcoreapp3.1\SingletonApp.dll
+D:\UnimarPos\SingletonApp\obj\Debug\netcoreapp3.1\SingletonApp.pdb
+D:\UnimarPos\SingletonApp\obj\Debug\netcoreapp3.1\SingletonApp.genruntimeconfig.cache
+D:\PósGraduação\Aula 2\Aula\SingletonApp\bin\Debug\netcoreapp3.1\SingletonApp.exe
+D:\PósGraduação\Aula 2\Aula\SingletonApp\bin\Debug\netcoreapp3.1\SingletonApp.deps.json
+D:\PósGraduação\Aula 2\Aula\SingletonApp\bin\Debug\netcoreapp3.1\SingletonApp.runtimeconfig.json
+D:\PósGraduação\Aula 2\Aula\SingletonApp\bin\Debug\netcoreapp3.1\SingletonApp.runtimeconfig.dev.json
+D:\PósGraduação\Aula 2\Aula\SingletonApp\bin\Debug\netcoreapp3.1\SingletonApp.dll
+D:\PósGraduação\Aula 2\Aula\SingletonApp\bin\Debug\netcoreapp3.1\SingletonApp.pdb
+D:\PósGraduação\Aula 2\Aula\SingletonApp\obj\Debug\netcoreapp3.1\SingletonApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PósGraduação\Aula 2\Aula\SingletonApp\obj\Debug\netcoreapp3.1\SingletonApp.AssemblyInfoInputs.cache
+D:\PósGraduação\Aula 2\Aula\SingletonApp\obj\Debug\netcoreapp3.1\SingletonApp.AssemblyInfo.cs
+D:\PósGraduação\Aula 2\Aula\SingletonApp\obj\Debug\netcoreapp3.1\SingletonApp.csproj.CoreCompileInputs.cache
+D:\PósGraduação\Aula 2\Aula\SingletonApp\obj\Debug\netcoreapp3.1\SingletonApp.dll
+D:\PósGraduação\Aula 2\Aula\SingletonApp\obj\Debug\netcoreapp3.1\SingletonApp.pdb
+D:\PósGraduação\Aula 2\Aula\SingletonApp\obj\Debug\netcoreapp3.1\SingletonApp.genruntimeconfig.cache
